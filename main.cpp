@@ -5,7 +5,7 @@ using namespace std;
 
 struct Account {
     int accountNumber{};
-    string ownerFullName{};
+    string ownerName{};
     double balance{};
 };
 
